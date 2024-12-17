@@ -1,4 +1,4 @@
-# Menu dictionary
+# Menu dictionary challange
 menu = {
     "Snacks": {
         "Cookie": .99,
